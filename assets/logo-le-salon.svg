@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 170" width="200" height="170" role="img" aria-label="Le Salon">
+  <path d="M62 122 L62 72 A38 38 0 0 1 138 72 L138 122" fill="none" stroke="#004586" stroke-width="5"/>
+  <polygon points="76,122 76,111 97,111 97,98 118,98 118,85 132,85 132,122" fill="#004586"/>
+  <rect x="30" y="122" width="140" height="6" fill="#004586"/>
+</svg>

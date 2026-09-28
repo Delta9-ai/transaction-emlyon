@@ -1,0 +1,6 @@
+# Fichiers de travail gardés en local, hors du dépôt
+.DS_Store
+.impeccable/
+PRODUCT.md
+DESIGN.md
+prompt-site-transaction.md
